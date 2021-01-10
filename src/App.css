@@ -1,0 +1,22 @@
+.appContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.gameContainer {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.historyContainer {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+
+
