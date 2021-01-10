@@ -1,0 +1,6 @@
+.field {
+    display: inline-block;
+    width: fit-content;
+    border: .5px solid black;
+    border-collapse: collapse;
+}
